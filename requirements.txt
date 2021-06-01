@@ -40,7 +40,7 @@ statsmodels==0.9.0
 SVC==0.1
 texttable==1.2.1
 traitlets==4.3.2
-urllib3==1.24.2
+urllib3==1.26.5
 xlrd==1.1.0
 xlwt==1.3.0
 zope.interface==4.5.0
